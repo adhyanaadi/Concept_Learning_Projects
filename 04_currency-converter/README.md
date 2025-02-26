@@ -1,8 +1,24 @@
-# React + Vite
+# Currency Converter 💱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple currency converter built using React that helped me deepen my understanding of handling multiple state variables, creating custom hooks, and effectively using `useEffect` with dependencies. Additionally, this project reinforced my knowledge of JavaScript's `map` method for iterating over arrays.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Convert between different currencies in real-time
+- Manage and update multiple state variables efficiently
+- Use custom hooks for better code reusability
+- Handle `useEffect` dependencies correctly
+- Implement `map` for rendering currency options dynamically
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- React (Vite)
+- useState & useEffect hooks
+- Custom Hooks
+- Fetch API for currency rates
+- CSS (for basic styling)
+
+## 📌 What I Learned
+- Managing multiple state variables in a single React project
+- Using `useEffect` correctly with dependencies to prevent unnecessary re-renders
+- Creating and utilizing custom hooks for cleaner and more reusable code
+- Revising JavaScript’s `map` function to dynamically render lists
+
