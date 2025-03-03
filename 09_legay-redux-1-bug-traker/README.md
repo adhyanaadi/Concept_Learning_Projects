@@ -1,12 +1,20 @@
-# React + Vite
+# 🐞 Redux Bug Tracker (Pure Redux + Vite + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Bug Tracker** built using **React, Redux (without Redux Toolkit), and Tailwind CSS** in a **Vite.js environment**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Manage Bugs**: Add, solve, and remove bugs.
+- **Redux State Management**: Uses pure Redux (no Redux Toolkit).
+- **Tailwind CSS**: Beautiful UI with responsive design.
+- **Vite.js**: Fast development setup.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔄 How Redux Works
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. We create an action object and dispatch it to the store.
+2. The store’s dispatch method takes the action and sends it to the reducer.
+3. The reducer is never called directly; instead, the store manages the reducer execution.
+4. The reducer processes the action, computes the new state, and returns it.
+5. The store updates its internal state and informs the UI about the changes.
+6. UI components retrieve the updated state from the store and re-render accordingly.
