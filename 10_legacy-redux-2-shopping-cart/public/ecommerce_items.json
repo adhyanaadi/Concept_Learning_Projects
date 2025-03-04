@@ -1,0 +1,352 @@
+[
+  {
+    "category": "Toys",
+    "id": 1,
+    "description": "Puzzle game for kids",
+    "quantity": 64,
+    "price": 463.97
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 1,
+    "description": "Vacuum cleaner with HEPA filter",
+    "quantity": 21,
+    "price": 447.42
+  },
+  {
+    "category": "Toys",
+    "id": 2,
+    "description": "Action figure from popular series",
+    "quantity": 82,
+    "price": 329.94
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 2,
+    "description": "Smart LED bulb with app control",
+    "quantity": 38,
+    "price": 178.44
+  },
+  {
+    "category": "Toys",
+    "id": 3,
+    "description": "Building block set",
+    "quantity": 86,
+    "price": 254.68
+  },
+  {
+    "category": "Toys",
+    "id": 4,
+    "description": "Action figure from popular series",
+    "quantity": 26,
+    "price": 492.83
+  },
+  {
+    "category": "Electronics",
+    "id": 1,
+    "description": "Gaming console with VR support",
+    "quantity": 69,
+    "price": 16.13
+  },
+  {
+    "category": "Beauty",
+    "id": 1,
+    "description": "Moisturizing face cream",
+    "quantity": 12,
+    "price": 316.64
+  },
+  {
+    "category": "Clothing",
+    "id": 1,
+    "description": "Formal office shirt",
+    "quantity": 85,
+    "price": 317.72
+  },
+  {
+    "category": "Electronics",
+    "id": 2,
+    "description": "Laptop with high performance",
+    "quantity": 50,
+    "price": 192.92
+  },
+  {
+    "category": "Books",
+    "id": 1,
+    "description": "Biography of a famous leader",
+    "quantity": 40,
+    "price": 408.25
+  },
+  {
+    "category": "Electronics",
+    "id": 3,
+    "description": "Laptop with high performance",
+    "quantity": 19,
+    "price": 25.0
+  },
+  {
+    "category": "Clothing",
+    "id": 2,
+    "description": "Unisex sports jacket",
+    "quantity": 29,
+    "price": 283.99
+  },
+  {
+    "category": "Electronics",
+    "id": 4,
+    "description": "Laptop with high performance",
+    "quantity": 2,
+    "price": 208.82
+  },
+  {
+    "category": "Books",
+    "id": 2,
+    "description": "Thriller novel by bestselling author",
+    "quantity": 51,
+    "price": 21.43
+  },
+  {
+    "category": "Electronics",
+    "id": 5,
+    "description": "4K Ultra HD Smart TV",
+    "quantity": 64,
+    "price": 85.22
+  },
+  {
+    "category": "Books",
+    "id": 3,
+    "description": "Cookbook with healthy recipes",
+    "quantity": 15,
+    "price": 120.38
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 3,
+    "description": "Set of ceramic dinner plates",
+    "quantity": 49,
+    "price": 152.83
+  },
+  {
+    "category": "Sports",
+    "id": 1,
+    "description": "Basketball with professional grip",
+    "quantity": 46,
+    "price": 264.1
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 4,
+    "description": "Electric kettle with fast heating",
+    "quantity": 70,
+    "price": 475.56
+  },
+  {
+    "category": "Sports",
+    "id": 2,
+    "description": "Yoga mat with anti-slip surface",
+    "quantity": 59,
+    "price": 458.65
+  },
+  {
+    "category": "Toys",
+    "id": 5,
+    "description": "Action figure from popular series",
+    "quantity": 62,
+    "price": 128.41
+  },
+  {
+    "category": "Clothing",
+    "id": 3,
+    "description": "Men's cotton t-shirt",
+    "quantity": 26,
+    "price": 447.34
+  },
+  {
+    "category": "Sports",
+    "id": 3,
+    "description": "Yoga mat with anti-slip surface",
+    "quantity": 67,
+    "price": 465.53
+  },
+  {
+    "category": "Toys",
+    "id": 6,
+    "description": "Puzzle game for kids",
+    "quantity": 96,
+    "price": 65.21
+  },
+  {
+    "category": "Toys",
+    "id": 7,
+    "description": "Building block set",
+    "quantity": 53,
+    "price": 324.98
+  },
+  {
+    "category": "Clothing",
+    "id": 4,
+    "description": "Men's cotton t-shirt",
+    "quantity": 7,
+    "price": 407.2
+  },
+  {
+    "category": "Books",
+    "id": 4,
+    "description": "Science fiction book with futuristic story",
+    "quantity": 9,
+    "price": 436.37
+  },
+  {
+    "category": "Electronics",
+    "id": 6,
+    "description": "4K Ultra HD Smart TV",
+    "quantity": 39,
+    "price": 311.28
+  },
+  {
+    "category": "Books",
+    "id": 5,
+    "description": "Thriller novel by bestselling author",
+    "quantity": 67,
+    "price": 121.47
+  },
+  {
+    "category": "Beauty",
+    "id": 2,
+    "description": "Herbal shampoo for hair growth",
+    "quantity": 93,
+    "price": 5.76
+  },
+  {
+    "category": "Beauty",
+    "id": 3,
+    "description": "Herbal shampoo for hair growth",
+    "quantity": 97,
+    "price": 165.83
+  },
+  {
+    "category": "Beauty",
+    "id": 4,
+    "description": "Organic body lotion",
+    "quantity": 39,
+    "price": 114.32
+  },
+  {
+    "category": "Electronics",
+    "id": 7,
+    "description": "Laptop with high performance",
+    "quantity": 13,
+    "price": 445.88
+  },
+  {
+    "category": "Beauty",
+    "id": 5,
+    "description": "Long-lasting matte lipstick",
+    "quantity": 33,
+    "price": 38.43
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 5,
+    "description": "Non-stick cookware set",
+    "quantity": 97,
+    "price": 258.06
+  },
+  {
+    "category": "Toys",
+    "id": 8,
+    "description": "Puzzle game for kids",
+    "quantity": 61,
+    "price": 362.9
+  },
+  {
+    "category": "Books",
+    "id": 6,
+    "description": "Cookbook with healthy recipes",
+    "quantity": 12,
+    "price": 464.24
+  },
+  {
+    "category": "Books",
+    "id": 7,
+    "description": "Biography of a famous leader",
+    "quantity": 71,
+    "price": 451.44
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 6,
+    "description": "Vacuum cleaner with HEPA filter",
+    "quantity": 44,
+    "price": 255.06
+  },
+  {
+    "category": "Clothing",
+    "id": 5,
+    "description": "Men's cotton t-shirt",
+    "quantity": 36,
+    "price": 106.84
+  },
+  {
+    "category": "Beauty",
+    "id": 6,
+    "description": "Moisturizing face cream",
+    "quantity": 37,
+    "price": 236.25
+  },
+  {
+    "category": "Home & Kitchen",
+    "id": 7,
+    "description": "Vacuum cleaner with HEPA filter",
+    "quantity": 79,
+    "price": 496.67
+  },
+  {
+    "category": "Toys",
+    "id": 9,
+    "description": "Puzzle game for kids",
+    "quantity": 37,
+    "price": 354.05
+  },
+  {
+    "category": "Clothing",
+    "id": 6,
+    "description": "Formal office shirt",
+    "quantity": 69,
+    "price": 117.85
+  },
+  {
+    "category": "Toys",
+    "id": 10,
+    "description": "Puzzle game for kids",
+    "quantity": 15,
+    "price": 66.82
+  },
+  {
+    "category": "Electronics",
+    "id": 8,
+    "description": "Smartphone with latest features",
+    "quantity": 29,
+    "price": 354.87
+  },
+  {
+    "category": "Beauty",
+    "id": 7,
+    "description": "Long-lasting matte lipstick",
+    "quantity": 12,
+    "price": 432.45
+  },
+  {
+    "category": "Electronics",
+    "id": 9,
+    "description": "Smartphone with latest features",
+    "quantity": 14,
+    "price": 132.93
+  },
+  {
+    "category": "Books",
+    "id": 8,
+    "description": "Thriller novel by bestselling author",
+    "quantity": 87,
+    "price": 126.26
+  }
+]
