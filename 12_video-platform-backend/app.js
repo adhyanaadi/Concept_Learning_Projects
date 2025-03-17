@@ -2,7 +2,7 @@
 // For setting the public as our static folder.
 import express from "express";
 import cors from "cors";
-import CookieParser from "cookieparser";
+import cookieParser from "cookie-parser";
 
 const app = express();
 
@@ -18,7 +18,7 @@ app.use(
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
-app.use(CookieParser())
+app.use(cookieParser())
 
 // Routes Import
 import userRouter from "./src/routes/user.routes.js"
